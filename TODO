@@ -1,0 +1,21 @@
+glossery:
+    *  => important
+    ** => really important
+
+== TODO ==
+Re-write router to wrok with redux 
+Fix editor controls (icons...)
+*Product gallery editor
+*Settings page shouldn't be a 404
+
+
+== In-pgrogress ==
+Basic editing products
+
+== Done ==
+Switch to Redux for App state
+Authenticateion
+Createing Products
+Viewing Products
+
+
